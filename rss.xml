@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kai.Simon]]></title>
+        <description><![CDATA[Kai.Simon]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 Nov 2015 21:14:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dealing with change]]></title>
+            <description><![CDATA[<article><h1>Dealing with change</h1><p>Dealing with change: Why a detailed project plan helps you survive and succeed</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51f44427-5d91-478e-896b-1807594b7f46.jpg"></article>]]></description>
+            <link>undefineddealing-with-change/index.html</link>
+            <guid isPermaLink="false">9f7d1d9a-959f-460c-ae4d-a8462cdaff03</guid>
+            <pubDate>Mon, 23 Nov 2015 21:14:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
