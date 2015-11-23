@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Dealing with change: Why a detailed project plan helps you survive and succeed'
-datePublished: '2015-11-23T21:14:09.246Z'
-dateModified: '2015-11-23T21:13:56.050Z'
+datePublished: '2015-11-23T21:29:56.133Z'
+dateModified: '2015-11-23T21:29:08.020Z'
 title: Dealing with change
 author: []
+sourcePath: _posts/2015-11-23-dealing-with-change.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-23-dealing-with-change.md
-published: true
 url: dealing-with-change/index.html
 _type: Article
 
@@ -37,5 +37,5 @@ This allows you to implement good decisions when you are in the middle of changi
 
 * Detailed: Break down key goals into timed actions with clear responsibilities.
 * Hold people responsible for their actions -- don't let people _"Over-promise and under-deliver"_ -- get realistic commitments that are fully owned.
-* Take the time to ask "Which scenarios would negatively impact our plan?" Set up action plans to deal with each of these.
+* Take the time to ask _"Which scenarios would negatively impact our plan?"_ Set up action plans to deal with each of these.
 * Communicate to impacted people. Explain the _"what and why"_ is being done. Be mindful that people will deal with information differently based on where they are in the change process. For example, when news is a shock, people will not be able to take in and retain the detailed information -- you'll need to have information to take away, and later meetings to answer questions.
