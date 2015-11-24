@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'Dealing with change: Why a detailed project plan helps you survive and succeed'
-datePublished: '2015-11-23T21:29:56.133Z'
-dateModified: '2015-11-23T21:29:08.020Z'
+datePublished: '2015-11-24T08:22:36.344Z'
+dateModified: '2015-11-24T08:22:32.444Z'
 title: Dealing with change
 author: []
 sourcePath: _posts/2015-11-23-dealing-with-change.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: dealing-with-change/index.html
-_type: Article
+_type: Blurb
 
 ---
 **Dealing with change: Why a detailed project plan helps you survive and succeed**
