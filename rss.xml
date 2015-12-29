@@ -4,21 +4,21 @@
         <description><![CDATA[Kai.Simon]]></description>
         <link>https://thegrid.ai/kai-simon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 09:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 09:08:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kai-simon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/12122787_10153637776575619_6702600389351678734_n.jpg?oh=d9e60faf3a8cd7e42292c2431d1ebea3&oe=56E6C17E">]]></description>
+            <link>https://www.facebook.com/photo.php?fbid=10153637776575619&amp;set=pb.564030618.-2207520000.1448313288.&amp;type=3&amp;theater</link>
+            <guid isPermaLink="false">2a54b64b-1088-4d28-bdf0-312862469850</guid>
+            <pubDate>Tue, 29 Dec 2015 09:08:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dealing with change]]></title>
             <description><![CDATA[<article><h1>Dealing with change</h1><p>Dealing with change: Why a detailed project plan helps you survive and succeed</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7aaea1136f7a66101fab779aa85c5eba8315939e.jpg"></article>]]></description>
             <link>https://thegrid.ai/kai-simon/dealing-with-change/index.html</link>
             <guid isPermaLink="false">9f7d1d9a-959f-460c-ae4d-a8462cdaff03</guid>
             <pubDate>Tue, 29 Dec 2015 09:08:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/12122787_10153637776575619_6702600389351678734_n.jpg?oh=d9e60faf3a8cd7e42292c2431d1ebea3&oe=56E6C17E">]]></description>
-            <link>https://www.facebook.com/photo.php?fbid=10153637776575619&amp;set=pb.564030618.-2207520000.1448313288.&amp;type=3&amp;theater</link>
-            <guid isPermaLink="false">2a54b64b-1088-4d28-bdf0-312862469850</guid>
-            <pubDate>Mon, 23 Nov 2015 21:17:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
